@@ -1,8 +1,8 @@
-function Footer(){
-    return(
-        <Footer className="Footer">
+function Footer() {
+    return (
+        <footer className="footer">
             <p>&copy; {new Date().getFullYear()} Mi Portafolio. Todos los derechos reservados</p>
-        </Footer>
+        </footer>
     );
 }
 

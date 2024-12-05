@@ -1,4 +1,4 @@
-function about(){
+function about() {
     return(
         <section className="about">
             <h2>Acerce de Carlos Portillo</h2>
